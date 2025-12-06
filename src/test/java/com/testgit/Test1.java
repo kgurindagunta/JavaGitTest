@@ -7,6 +7,7 @@ public class Test1 {
         System.out.println("new branch 2");
         System.out.println("new command user2");
         System.out.println("Stash from user2");
+        System.out.println("Stash from user2 master now");
     }
 
 }
