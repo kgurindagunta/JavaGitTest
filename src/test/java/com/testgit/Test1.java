@@ -8,6 +8,7 @@ public class Test1 {
         System.out.println("new command user2");
         System.out.println("Stash from user2");
         System.out.println("Stash from user2 master now");
+        System.out.println("Git soft commit");
     }
 
 }
